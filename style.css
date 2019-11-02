@@ -1,0 +1,19 @@
+body{
+	background-color:green;
+}
+h1{
+	letter-spacing:10px;
+	font-size:80px;
+}
+p{
+	text-align:justify;
+	text-indent:30px;
+	font-size:30px;
+}
+#a1{
+width:500px;
+height:300px;
+border:2px solid yellow;
+margin:15px;
+box-shadow:-7px -10px 10px black;
+}
